@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ce925c8-4e26-47d6-a8e4-202cd4040613" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WVUrGeI8mdR8nRkcK6VgTrnwHP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image_classifierNN" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\appsk\PycharmProjects\intelImageClassificationSet\Data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="image_classifierNN" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="intelImageClassificationSet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\appsk\Anaconda3\envs\tensor\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_classifierNN" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ce925c8-4e26-47d6-a8e4-202cd4040613" name="Default Changelist" comment="" />
+      <created>1579234452540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579234452540</updated>
+      <workItem from="1579234464602" duration="11047000" />
+      <workItem from="1579295411801" duration="83000" />
+      <workItem from="1579322206945" duration="190000" />
+      <workItem from="1579580475644" duration="18000" />
+      <workItem from="1579580854109" duration="27000" />
+      <workItem from="1579581740647" duration="1204000" />
+      <workItem from="1579590809651" duration="15000" />
+      <workItem from="1579592238233" duration="1048000" />
+      <workItem from="1579630331991" duration="38000" />
+      <workItem from="1579630414347" duration="675000" />
+      <workItem from="1579647419016" duration="611000" />
+      <workItem from="1579679202029" duration="1000" />
+      <workItem from="1580250255810" duration="4000" />
+      <workItem from="1580857681867" duration="4000" />
+      <workItem from="1583039750502" duration="39000" />
+      <workItem from="1583039860681" duration="142000" />
+      <workItem from="1586808973196" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579242497119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="445" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579242497119" />
+    <state x="739" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579234483557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579234483557" />
+    <state x="771" y="273" key="FileChooserDialogImpl" timestamp="1579234513668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579234513668" />
+    <state width="1598" height="208" key="GridCell.Tab.0.bottom" timestamp="1579250855462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1598" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579250855462" />
+    <state width="1598" height="208" key="GridCell.Tab.0.center" timestamp="1579250855462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1598" height="208" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579250855462" />
+    <state width="1598" height="208" key="GridCell.Tab.0.left" timestamp="1579250855462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1598" height="208" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579250855462" />
+    <state width="1598" height="208" key="GridCell.Tab.0.right" timestamp="1579250855462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1598" height="208" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579250855462" />
+    <state x="506" y="160" key="SettingsEditor" timestamp="1579234497964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="506" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579234497964" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/intelImageClassificationSet$image_classifierNN.coverage" NAME="image_classifierNN Coverage Results" MODIFIED="1579250216384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
